@@ -21,6 +21,7 @@ Each folder contains the following files:
   - topo.py: this python script creates a Mininet topology to run the corresponding test.
   - start.sh: this script configures the parameters of the devices in the topology and runs the measurement tests.
   - aggregator.sh: this script generates the data produced by the measurement tests and displays them into a .csv file.
+
 You can modify the parameters in the scripts depending on the metrics you want to report.
 ## Running a test:
   1. Copy the folders into the Linux's home directory.

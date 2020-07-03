@@ -1,5 +1,5 @@
 # An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband (scripts)
-This repository contains the scripts that run the tests reported in the paper "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband".
+This repository contains the scripts that run the tests reported in the paper "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband" (link_to_the_paper).
 
 ## Usage
 

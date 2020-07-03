@@ -17,9 +17,8 @@ This repository contains the scripts that run the tests reported in the paper "A
     - plot_iperf3: https://github.com/ekfoury/iperf3_plotter
     
 ## Running a test:
-  1. Run the topology: sudo python topo.py
-  2. Run the test: ./start.sh
-  3. After the test is done, the results will be reported in the Desktop folder in a file called out.csv
-  
-  If you require further assistance, send an email to gomezgaj@email.sc.edu
- 
+  1. Navigate into a foler (i.e., heatmap_test)
+  2. Open a terminal 
+  3. Run the Mininet topology by issuing the following command: **sudo python topo.py**
+  4. Run the test by issuing the following command: **./start.sh**
+  6. After the test is done, the results will be reported in the Desktop folder in a file called out.csv

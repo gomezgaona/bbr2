@@ -1,5 +1,5 @@
 # An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband (scripts)
-This repository contains the scripts that run the tests reported in the paper "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband" (link_to_the_paper).
+This repository contains the scripts that run the measurement tests reported in the paper "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband" (link_to_the_paper).
 
 ## Usage
 
@@ -20,5 +20,5 @@ This repository contains the scripts that run the tests reported in the paper "A
   1. Navigate into a foler (i.e., heatmap_test)
   2. Open a terminal 
   3. Run the Mininet topology by issuing the following command: **sudo python topo.py**
-  4. Run the test by issuing the following command: **./start.sh**
-  6. After the test is done, the results will be reported in the Desktop folder in a file called out.csv
+  4. Run the test by issuing the following command: **sudo ./start.sh**
+  6. After the test is done, the results will be reported in the Desktop folder in a file called *out.csv*

@@ -5,7 +5,7 @@ This repository contains the scripts that run the measurement tests reported in 
 
 ## Create a virtual machine with the following characteristics:
   - Hardware requirement:
-    - CPU count: 8 (recommended).
+    - CPU count: 8 cores (recommended. We used 8 Xeon 6130 cores operating at 2.1 GHz). 
     - Memory: 16GB.
     - Storage: 100GB.
  - Software requirements:
